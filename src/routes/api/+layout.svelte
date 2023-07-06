@@ -1,6 +1,7 @@
-<h1> API </h1>
+<h1> API functions </h1>
 
-<a href="/api/random-number/">Random Number</a>
+<nav>
+        <a href="/api/random-number">random number</a>
+</nav>
 
-<slot></slot>
-
+<slot />
