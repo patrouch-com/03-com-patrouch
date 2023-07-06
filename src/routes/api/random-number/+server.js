@@ -1,3 +1,6 @@
+<h1> Random Number </h2>
+
+
 import { error } from '@sveltejs/kit';
 
 /** @type {import('./$types').RequestHandler} */
