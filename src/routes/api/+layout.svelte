@@ -2,6 +2,8 @@
 
 <nav>
         <a href="/api/random-number">random number</a>
+        <a href="/api/pokemon">pokemon</a>
+
 </nav>
 
 <slot />
