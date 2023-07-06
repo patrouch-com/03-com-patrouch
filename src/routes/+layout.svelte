@@ -5,6 +5,8 @@
         <a href="/roll">roll</a>
         <a href="/add.json">add</a>
         <a href="/api">api</a>
+        <a href="/users">users</a>
+
 
 </nav>
 
