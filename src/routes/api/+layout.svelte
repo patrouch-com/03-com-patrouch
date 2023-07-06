@@ -1,33 +1,6 @@
-<!-- src/routes/api/random-number/-->
+<h1> API </h1>
 
-
-<div class="submenu">
-<ul>
-<li><a href="/api/random-number/">Random Number</a>
-</li>
-</ul>
-</div>
+<a href="/api/random-number/">Random Number</a>
 
 <slot></slot>
 
-<style>
-	ul {
-		display: flex;
-		margin: 0;
-		padding: 0;
-		list-style: none;
-	}
-	li {
-		margin-right: 20px;
-		font-weight: bold;
-	}
-	a {
-		color:sienna;
-		text-decoration: none;
-	}
-	a:hover {
-		color:saddlebrown;
-	}
-
-
-</style>
