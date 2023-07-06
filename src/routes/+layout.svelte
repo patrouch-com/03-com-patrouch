@@ -4,6 +4,7 @@
         <a href="/blog">blog</a>
         <a href="/roll">roll</a>
         <a href="/add">add</a>
+        <a href="/api">api</a>
 
 
 </nav>
