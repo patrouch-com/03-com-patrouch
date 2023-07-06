@@ -3,8 +3,8 @@
 	<a href="/about">about</a>
         <a href="/blog">blog</a>
         <a href="/roll">roll</a>
-        <a href="/add">add</a>
-        <a href="/api.json">api</a>
+        <a href="/add.json">add</a>
+        <a href="/api">api</a>
 
 </nav>
 
