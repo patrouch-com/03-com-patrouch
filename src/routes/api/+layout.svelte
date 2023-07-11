@@ -1,6 +1,6 @@
 <nav>
-        <a href="/api/users">users</a>
 
+        <a href="/api/users">users</a>
 
 </nav>
 
