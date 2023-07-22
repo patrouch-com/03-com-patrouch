@@ -2,12 +2,12 @@
 
 export let data
 
-$: ({users} = data)
+$: ({results} = data)
 
 </script>
 
 
 <h1> API - Users </h1>
-{#each users as user}
-<h2>{user.results}</h2>
+{#each result as result}
+<h2>{results}</h2>
 {/each}
