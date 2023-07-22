@@ -8,6 +8,6 @@ $: ({users} = data)
 
 
 <h1> API  - Users</h1>
-<p>{data.results}</p>
+<p>{data.success}</p>
 
 
