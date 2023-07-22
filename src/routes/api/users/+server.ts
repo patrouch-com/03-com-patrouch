@@ -8,3 +8,5 @@ export async function GET({ request, platform }) {
   ).run();
   return new Response(JSON.stringify(result));
 }
+
+
