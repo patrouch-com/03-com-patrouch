@@ -1,16 +1,13 @@
 <script>
- export let data;
- const gophers  = data.gophers;
- const Component = data.Component;
+
+    export let data;
+$: ({users} = data)
 
 </script>
 
 
-<h1>{data.title}</h1>
-{#each gophers as gopher}
-<div>
-<Component {gopher} />
-</div>
-{/each}
+
+<h1> API  - Users</h1>
+<p>{data}</p>
 
 
