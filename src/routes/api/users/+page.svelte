@@ -1,7 +1,6 @@
 <script>
 
     export let data;
-$: ({users} = data)
 
 </script>
 
