@@ -6,7 +6,6 @@ export async function GET({ request, platform }) {
   let result = await platform.env.DB.prepare(
     "SELECT * FROM users LIMIT 5"
   ).run();
-  console.log(result)
   return new Response(JSON.stringify(result));
 }
 
