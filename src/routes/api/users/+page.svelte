@@ -6,7 +6,7 @@
 
 <h1>Users Data</h1>
 
-{#each results.users as user} 
+{#each results as user} 
 <h2>{user.email_address}</h2>
 {/each}
 
