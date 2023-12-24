@@ -11,5 +11,5 @@ export async function load(/** @type{ { fetch: any, params: any } } */ { fetch, 
     }
   }
 
-  throw error(404);
+  error(404);
 }
