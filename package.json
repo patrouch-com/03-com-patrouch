@@ -20,6 +20,7 @@
 		"svelte-preprocess": "^5.0.4",
 		"typescript": "^5.1.6",
 		"video.js": "^8.10.0",
+		"vidstack": "^1.9.8",
 		"vite": "^5.0.0"
 	},
 	"type": "module",
