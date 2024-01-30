@@ -12,7 +12,6 @@ import 'vidstack/player/ui';
 <media-player title="Pinche Poutine" src="https://storage.googleapis.com/ppmx/1/2023/01/PoutiPuraVideoLoop.mp4">
 
   <media-provider></media-provider>
-  <media-video-layout thumbnails="https://image.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/storyboard.vtt"></media-video-layout>
 </media-player>
 
 <h1>Hello {data.visited ? 'friend' : 'stranger'}!</h1>
