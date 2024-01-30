@@ -5,4 +5,7 @@ import { splitVendorChunkPlugin } from 'vite'
 
 export default defineConfig({
 	plugins: [splitVendorChunkPlugin(), sveltekit()]
+	define: {
+    'process.env': {}
+  }
 });
