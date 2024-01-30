@@ -9,7 +9,7 @@ import 'vidstack/player/ui';
 
 </script>
 
-<media-player title="Sprite Fight" src="//vjs.zencdn.net/v/oceans.mp4">
+<media-player title="Pinche Poutine" src="https://storage.googleapis.com/ppmx/1/2023/01/PoutiPuraVideoLoop.mp4">
 
   <media-provider></media-provider>
   <media-video-layout thumbnails="https://image.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/storyboard.vtt"></media-video-layout>
